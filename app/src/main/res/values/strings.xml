@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLite example</string>
+    <string name="empty">Not valid access</string>
+</resources>
